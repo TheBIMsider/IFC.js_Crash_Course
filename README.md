@@ -30,10 +30,10 @@ The course takes you through 6 main section, and this is where I will store my f
 
 - 02 **CSS:** CSS Section Exercise
 
-For this assignment, you need to create a 2-page application
+    For this assignment, you need to create a 2-page application
     
-*Page 1:* The first page will be a gallery of BIM models. If the user selects any BIM model, they will navigate to the second page. Don’t worry about the logic behind selecting a project for now: just redirect the user to the second page, no matter in which one of the “models” they click.
+    *Page 1:* The first page will be a gallery of BIM models. If the user selects any BIM model, they will navigate to the second page. Don’t worry about the logic behind selecting a project for now: just redirect the user to the second page, no matter in which one of the “models” they click.
 
-*Page 2:* The second Page is a BIM viewer where users have some menus and can see the 3d model occupying the whole screen. It will always display the same 3d model for now, so don’t worry about displaying one model or another depending on which project the user selected.
+    *Page 2:* The second Page is a BIM viewer where users have some menus and can see the 3d model occupying the whole screen. It will always display the same 3d model for now, so don’t worry about displaying one model or another depending on which project the user selected.
              
 
