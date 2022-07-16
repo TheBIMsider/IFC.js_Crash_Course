@@ -36,4 +36,11 @@ The course takes you through 6 main sections, and this is where I will store my 
 
     *Page 2:* The second Page is a BIM viewer where users have some menus and can see the 3d model occupying the whole screen. It will always display the same 3d model for now, so don’t worry about displaying one model or another depending on which project the user selected.
              
+ - 03 **JavaScript:** section exercise to come
+ 
+ - 04 **Tooling:** section exercise to come
+ 
+ - 05 **Three.js:** section exercise to come
+ 
+ - 06 **IFC.js:** section exercise to come
 
