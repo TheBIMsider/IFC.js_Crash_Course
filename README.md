@@ -24,7 +24,7 @@ The course is called [IFC.js Crash Course](https://ifcjs.github.io/info/docs/Cou
 
 🧠 Advanced IFC internals with web-ifc.
 
-The course takes you through 6 main section, and this is where I will store my final section exercise.
+The course takes you through 6 main sections, and this is where I will store my final section exercise.
 
 - 01 **HTML:** No section exercise
 
