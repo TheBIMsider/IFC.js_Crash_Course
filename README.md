@@ -28,7 +28,7 @@ The course takes you through 6 main sections, and this is where I will store my 
 
 - 01 **HTML:** No section exercise
 
-- 02 **CSS:** CSS Section Exercise
+- 02 **CSS:** [CSS Section Exercise](https://thebimsider.github.io/IFC.js_Crash_Course/)
 
     For this assignment, you need to create a 2-page application
     
