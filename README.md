@@ -2,7 +2,7 @@
 
 This is a course by the from the fine people at [IFC.js](https://ifcjs.github.io/info/) to help people learn more about what IFC.js can do.
 
-The course is called [IFC.js Crash Course](https://ifcjs.github.io/info/docs/Courses/Crash-course) and its goal is 
+The course is called [IFC.js Crash Course](https://courses.ifcjs.io/crash-course) and its goal is 
 
 *"Here you will learn how to program from scratch and the basics to create BIM applications with IFC.js."*
 
